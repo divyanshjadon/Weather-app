@@ -1,5 +1,4 @@
 Weather App
-
 A simple weather app built with vanilla JavaScript and the OpenWeatherMap API.
 
 Features
